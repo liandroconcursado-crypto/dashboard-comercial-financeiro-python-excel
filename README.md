@@ -1,8 +1,12 @@
 # Dashboard Comercial e Financeiro
 
+[![Abrir dashboard no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-comercial-financeiro.streamlit.app/)
+
 Projeto demonstrativo de análise de dados, automação de Excel e criação de dashboards desenvolvido para portfólio profissional.
 
 > **Todos os dados utilizados são fictícios e foram gerados exclusivamente para demonstração.** Este projeto não foi desenvolvido para um cliente real.
+
+![Dashboard comercial e financeiro](portfolio/01_dashboard.png)
 
 ## Visão geral
 
@@ -19,10 +23,6 @@ Este projeto simula uma entrega profissional para esse cenário. Um único coman
 - cinco imagens em alta resolução para portfólio.
 
 ## Resultado visual
-
-### Dashboard executivo
-
-![Dashboard comercial e financeiro](portfolio/01_dashboard.png)
 
 ### Indicadores gerenciais
 
