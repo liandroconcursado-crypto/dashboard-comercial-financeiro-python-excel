@@ -1,5 +1,7 @@
 # Dashboard Comercial e Financeiro
 
+> **Quer testar o dashboard funcionando?** Clique no botão abaixo para abrir a versão interativa no navegador.
+
 [![Abrir dashboard no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-comercial-financeiro.streamlit.app/)
 
 Projeto demonstrativo de análise de dados, automação de Excel e criação de dashboards desenvolvido para portfólio profissional.
